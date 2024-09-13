@@ -33,9 +33,9 @@
 1. 안티 디버깅 학습
 2. 커널 모드 연구
 3. 안티치트 기능 및 구현
-  - PID 탐지
-  - Anti DLL Injection
-  - Anti Debugging
+  -- PID 탐지
+  -- Anti DLL Injection
+  -- Anti Debugging
 4. 테스트 및 성능 검증
 
 ------------------------------------
