@@ -1,7 +1,7 @@
 # 2024 WHS AntiEngine팀 프로젝트 고도화
 
 ## 프로젝트명
-- **Anti-Cheat 개발 고도화 프로젝트**
+- Anti-Cheat 개발 고도화 프로젝트
 
 ---
 
