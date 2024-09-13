@@ -4,8 +4,8 @@
 
 - Windows 10 pro 22H2
 - Visual Studio 2022 Community
-- SDK
-- WDK
+- Windows 11 SDK 10.0.26100.0
+- WDK (Windows Driver Kit) 10.0.26100.1
 
 ### 표적
 
@@ -15,3 +15,4 @@
 
 - Anti DLL Injection
 - Anti debugging
+
