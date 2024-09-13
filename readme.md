@@ -59,5 +59,3 @@
 
 ### 동영상
 - **테스트 영상 URL**: [https://youtu.be/9W3Vpx1WOhA](https://youtu.be/9W3Vpx1WOhA)
-
----
